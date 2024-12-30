@@ -1,0 +1,16 @@
+export { default as SuperAdminDashboard } from './SuperAdminDashboard';
+export { default as OverviewTab } from './OverviewTab';
+export { default as EventsTab } from './EventsTab';
+export { default as UsersTab } from './UsersTab';
+export { default as SecurityTab } from './SecurityTab';
+export { default as SettingsTab } from './SettingsTab';
+export { default as AuditTab } from './AuditTab';
+export { default as ResourceManagementTab } from './ResourceManagementTab';
+export { default as SearchTab } from './SearchTab';
+export { default as SupportTab } from './SupportTab';
+export { default as TenantsTab } from './TenantsTab';
+export { default as AiInsightsTab } from './AiInsightsTab';
+export { default as ContentModerationTab } from './ContentModerationTab';
+export { default as IntegrationsTab } from './IntegrationsTab';
+export { default as BackupTab } from './BackupTab';
+export { default as ApiManagementTab } from './ApiManagementTab';

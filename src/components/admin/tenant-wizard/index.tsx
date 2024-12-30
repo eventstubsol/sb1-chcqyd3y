@@ -1,0 +1,1 @@
+<command>mv src/components/admin/tenant-wizard/TenantWizard.tsx src/components/admin/tenant-wizard/index.tsx</command>
